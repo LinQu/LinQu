@@ -1,79 +1,77 @@
-<h1 align="center">Hi, I'm Asira 👋</h1>
+<!-- Header Section -->
 <p align="center">
-  <b>Software Engineer • Backend Developer • System Analyst</b>
+  <img src="https://readme-typing-svg.herokuapp.com?color=6BCFF6&center=true&vCenter=true&lines=Hi+I'm+Asira;Software+Engineer;Backend+Developer;System+Optimizer;Automation+Enthusiast" />
+</p>
+
+<h2 align="center">✨ Crafting Clean Systems with Precision ✨</h2>
+
+---
+
+## 🧭 About Me
+
+I build scalable backend systems, automate complex workflows, and optimize software architectures to perform reliably in production.  
+I focus on efficiency, simplicity, and long-term maintainability.
+
+I enjoy:
+- Turning complex data flows into clean solutions  
+- Optimizing SQL queries in multi-table enterprise environments  
+- Building real-time automation bots (crypto, analytics, monitoring)  
+- Deploying robust services on Linux & Docker  
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,js,ts,bash,postgres,mysql,redis,docker,linux,fastapi,flask,express,git&perline=8" />
 </p>
 
 ---
 
-## 🚀 About Me
-I am a software engineer focused on building scalable systems, clean architecture, and high-performance backend services. My work spans data processing, automation tools, analytics pipelines, and production-grade services deployed on Linux environments.
-
-I enjoy solving complex technical problems, optimizing databases, and designing systems that stay reliable under real-world workloads.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Languages**
-- Python, Go, JavaScript  
-- SQL (PostgreSQL, MySQL, T-SQL)  
-- Bash / Shell scripting
-
-### **Frameworks & Libraries**
-- FastAPI, Flask  
-- Express.js  
-- Streamlit  
-- Pandas, NumPy  
-- Playwright, Selenium
-
-### **Database & Messaging**
-- PostgreSQL, MySQL, Supabase  
-- Redis  
-- SQLite (development)
-
-### **DevOps & Cloud**
-- Docker  
-- Linux (Ubuntu)  
-- CI/CD (GitHub Actions)  
-- VPS Deployment (containerized services)
+## 🚀 Specialties
+- Backend Engineering (API, automation pipelines, system logic)
+- Crypto bot development (real-time data tracking, alerting, analytics)
+- SQL tuning for heavy reporting workloads
+- Streamlit apps for dashboards & tournament systems
+- VPS/Docker deployments with clean architecture
 
 ---
 
-## 📊 Focused Work Areas
-- Backend development for analytics, reporting, and automation  
-- Optimization of complex SQL queries across multi-table schemas  
-- Crypto trading bots and real-time data processing  
-- Tournament/competition management systems  
-- Data pipelines with scheduling, notifications, and integrations  
-- API development & third-party integrations (Telegram, CoinGecko, DexScreener)
-
----
-
-## 🌟 Featured Capabilities
-- Designing clean, production-ready backend architecture  
-- Building automation systems for financial/market data  
-- Creating secure & efficient services deployable on VPS  
-- Developing dashboards and real-time monitoring tools  
-- Writing maintainable and testable codebases
-
----
-
-## 📈 GitHub Stats
+## 🎯 Featured Animations
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LinQu&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinQu&theme=tokyonight" height="160" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/So3Yl9b.gif" width="400" alt="coding animation">
 </p>
 
 ---
 
-## 📫 Contact
-- **GitHub:** [github.com/LinQu](https://github.com/LinQu)  
-- **Email:** _(asirayudha11@gmail.com)_  
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LinQu&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinQu&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
+## 🧩 Quote of the Day
 <p align="center">
-  <i>Crafting reliable systems, one commit at a time.</i>
+  <img src="https://readme-typing-svg.herokuapp.com?color=F2A365&center=true&vCenter=true&width=600&lines=“Clean+code+is+not+written+by+chance…;but+by+discipline+and+design.”" />
+</p>
+
+---
+
+## 📫 Connect
+<p align="center">
+  <b>GitHub:</b> https://github.com/LinQu  
+</p>
+
+<br>
+
+<p align="center">
+  <i>Building reliable systems, one function at a time.</i>
 </p>

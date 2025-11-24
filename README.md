@@ -50,9 +50,9 @@ I enjoy:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LinQu&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=LinQu" alt="GitHub Streak" /></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LinQu)](https://git.io/streak-stats)
+
 ---
 
 ## 🧩 Quote of the Day

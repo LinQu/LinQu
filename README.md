@@ -43,9 +43,6 @@ I enjoy:
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/So3Yl9b.gif" width="400" alt="coding animation">
-</p>
 
 ---
 
@@ -53,7 +50,7 @@ I enjoy:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LinQu&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinQu&theme=tokyonight" height="150"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Linqu" alt="GitHub Streak" /></a>
 </p>
 
 ---
